@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td>Unit Chair:</td>
-      <td>Trimester 1: Azadeh Ghari Neiat</td>
+      <td>Trimester 1: Dr Atabak Elmi</td>
     </tr>
   </table>
 </body>
