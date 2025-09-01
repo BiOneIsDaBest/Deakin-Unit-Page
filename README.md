@@ -1,5 +1,32 @@
-# Welcome to GitHub Desktop!
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Home </title>
+  <link rel="stylesheet" type="text/css" media="screen" href="main.css"/>
+</head>
+<body>
+  <h1>SIT223-SIT753 - Professional Practice in IT</h1>
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+  <h2>Unit details</h2>
+  <table style="width:100%">
+    <tr>
+      <td>Year:</td>
+      <td>2023 unit information</td>
+    </tr>
+    <tr>
+      <td>Enrolment modes:</td>
+      <td>Trimester 1: Burwood (Melbourne), Geelong, Cloud (online)</td>
+    </tr>
+    <tr>
+      <td>Credit point(s):</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Unit Chair:</td>
+      <td>Trimester 1: Azadeh Ghari Neiat</td>
+    </tr>
+  </table>
+</body>
+</html>
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+
